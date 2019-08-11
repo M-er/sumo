@@ -1,0 +1,720 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<osm version="0.6" generator="CGImap 0.7.5 (2998 thorn-01.openstreetmap.org)" copyright="OpenStreetMap and contributors" attribution="http://www.openstreetmap.org/copyright" license="http://opendatacommons.org/licenses/odbl/1-0/">
+ <bounds minlat="-36.6318700" minlon="-64.2926100" maxlat="-36.6298900" maxlon="-64.2884000"/>
+ <node id="1075598983" visible="true" version="1" changeset="6821955" timestamp="2010-12-31T17:25:00Z" user="zorko" uid="22005" lat="-36.6307035" lon="-64.2905482"/>
+ <node id="1075598998" visible="true" version="2" changeset="65617642" timestamp="2018-12-19T17:04:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6350008" lon="-64.2959377"/>
+ <node id="1075599022" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6315326" lon="-64.2877406"/>
+ <node id="1075599040" visible="true" version="1" changeset="6821955" timestamp="2010-12-31T17:25:02Z" user="zorko" uid="22005" lat="-36.6314745" lon="-64.2915144"/>
+ <node id="1075599052" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6323108" lon="-64.2867920"/>
+ <node id="1075599055" visible="true" version="2" changeset="13737803" timestamp="2012-11-03T18:31:25Z" user="pablopareja" uid="211657" lat="-36.6261369" lon="-64.2828938"/>
+ <node id="1075599063" visible="true" version="1" changeset="6821955" timestamp="2010-12-31T17:25:03Z" user="zorko" uid="22005" lat="-36.6315004" lon="-64.2895869"/>
+ <node id="1075599070" visible="true" version="2" changeset="65617642" timestamp="2018-12-19T17:04:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6357960" lon="-64.2949782"/>
+ <node id="1075599074" visible="true" version="1" changeset="6821955" timestamp="2010-12-31T17:25:04Z" user="zorko" uid="22005" lat="-36.6291648" lon="-64.2886206"/>
+ <node id="1075599088" visible="true" version="2" changeset="65596745" timestamp="2018-12-19T00:22:48Z" user="Lars_TheViking" uid="9007988" lat="-36.6299521" lon="-64.2934207"/>
+ <node id="1075599092" visible="true" version="2" changeset="61483876" timestamp="2018-08-09T00:47:18Z" user="geoJenn" uid="6172634" lat="-36.6357819" lon="-64.2844222"/>
+ <node id="1075599114" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6322896" lon="-64.2905631"/>
+ <node id="1075599123" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6299761" lon="-64.2896219"/>
+ <node id="1075599130" visible="true" version="2" changeset="65617642" timestamp="2018-12-19T17:04:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6343447" lon="-64.2951080"/>
+ <node id="1075599133" visible="true" version="3" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6365634" lon="-64.2854092"/>
+ <node id="1075599151" visible="true" version="1" changeset="6821955" timestamp="2010-12-31T17:25:07Z" user="zorko" uid="22005" lat="-36.6299679" lon="-64.2876672"/>
+ <node id="1075599155" visible="true" version="1" changeset="6821955" timestamp="2010-12-31T17:25:07Z" user="zorko" uid="22005" lat="-36.6276818" lon="-64.2848026"/>
+ <node id="1075599177" visible="true" version="2" changeset="13735363" timestamp="2012-11-03T15:13:37Z" user="pablopareja" uid="211657" lat="-36.6299535" lon="-64.2914724"/>
+ <node id="1075599182" visible="true" version="1" changeset="6821955" timestamp="2010-12-31T17:25:07Z" user="zorko" uid="22005" lat="-36.6276426" lon="-64.2867128"/>
+ <node id="1075599193" visible="true" version="3" changeset="65596745" timestamp="2018-12-19T00:22:48Z" user="Lars_TheViking" uid="9007988" lat="-36.6322821" lon="-64.2924618"/>
+ <node id="1075599223" visible="true" version="1" changeset="6821955" timestamp="2010-12-31T17:25:08Z" user="zorko" uid="22005" lat="-36.6338162" lon="-64.2867933"/>
+ <node id="1075599226" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6307657" lon="-64.2886743"/>
+ <node id="1075599247" visible="true" version="2" changeset="65617642" timestamp="2018-12-19T17:04:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6351419" lon="-64.2941537"/>
+ <node id="1075599249" visible="true" version="3" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6307334" lon="-64.2924469"/>
+ <node id="1075599252" visible="true" version="2" changeset="65596540" timestamp="2018-12-19T00:02:40Z" user="Lars_TheViking" uid="9007988" lat="-36.6284153" lon="-64.2876761"/>
+ <node id="1075599258" visible="true" version="3" changeset="65617642" timestamp="2018-12-19T17:04:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6330419" lon="-64.2934410"/>
+ <node id="1075599260" visible="true" version="3" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6350485" lon="-64.2835261"/>
+ <node id="1075599280" visible="true" version="1" changeset="6821955" timestamp="2010-12-31T17:25:10Z" user="zorko" uid="22005" lat="-36.6291487" lon="-64.2924236"/>
+ <node id="1075599286" visible="true" version="2" changeset="65596540" timestamp="2018-12-19T00:02:40Z" user="Lars_TheViking" uid="9007988" lat="-36.6269244" lon="-64.2838778"/>
+ <node id="1075599292" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6345976" lon="-64.2877797"/>
+ <node id="1075599296" visible="true" version="1" changeset="6821955" timestamp="2010-12-31T17:25:10Z" user="zorko" uid="22005" lat="-36.6284382" lon="-64.2857498"/>
+ <node id="1075599337" visible="true" version="3" changeset="65596745" timestamp="2018-12-19T00:22:48Z" user="Lars_TheViking" uid="9007988" lat="-36.6330391" lon="-64.2915386"/>
+ <node id="1075599341" visible="true" version="2" changeset="13735363" timestamp="2012-11-03T15:13:37Z" user="pablopareja" uid="211657" lat="-36.6283917" lon="-64.2895475"/>
+ <node id="1075599352" visible="true" version="1" changeset="6821955" timestamp="2010-12-31T17:25:11Z" user="zorko" uid="22005" lat="-36.6346144" lon="-64.2858304"/>
+ <node id="1075599397" visible="true" version="2" changeset="65596540" timestamp="2018-12-19T00:02:40Z" user="Lars_TheViking" uid="9007988" lat="-36.6292061" lon="-64.2867177"/>
+ <node id="1075599434" visible="true" version="3" changeset="65617642" timestamp="2018-12-19T17:04:51Z" user="Lars_TheViking" uid="9007988" lat="-36.6338122" lon="-64.2925006"/>
+ <node id="1075599437" visible="true" version="3" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6292238" lon="-64.2905417"/>
+ <node id="1075599442" visible="true" version="2" changeset="13735363" timestamp="2012-11-03T15:13:37Z" user="pablopareja" uid="211657" lat="-36.6334571" lon="-64.2958479"/>
+ <node id="1075599460" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6353791" lon="-64.2868341"/>
+ <node id="1075599472" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6330749" lon="-64.2858724"/>
+ <node id="1075599477" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6284185" lon="-64.2915051"/>
+ <node id="1075599490" visible="true" version="1" changeset="6821955" timestamp="2010-12-31T17:25:19Z" user="zorko" uid="22005" lat="-36.6322639" lon="-64.2886659"/>
+ <node id="1075599495" visible="true" version="3" changeset="65596540" timestamp="2018-12-19T00:02:40Z" user="Lars_TheViking" uid="9007988" lat="-36.6268892" lon="-64.2876578"/>
+ <node id="1075599509" visible="true" version="4" changeset="65596745" timestamp="2018-12-19T00:22:48Z" user="Lars_TheViking" uid="9007988" lat="-36.6315026" lon="-64.2934038"/>
+ <node id="1075599527" visible="true" version="1" changeset="6821955" timestamp="2010-12-31T17:25:20Z" user="zorko" uid="22005" lat="-36.6330525" lon="-64.2877146"/>
+ <node id="1075599540" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6330574" lon="-64.2896499"/>
+ <node id="1075599546" visible="true" version="3" changeset="65596540" timestamp="2018-12-19T00:02:40Z" user="Lars_TheViking" uid="9007988" lat="-36.6276556" lon="-64.2886090"/>
+ <node id="1075599555" visible="true" version="4" changeset="65617642" timestamp="2018-12-19T17:04:51Z" user="Lars_TheViking" uid="9007988" lat="-36.6322651" lon="-64.2943787"/>
+ <node id="1075599561" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6338798" lon="-64.2849273"/>
+ <node id="1075599570" visible="true" version="1" changeset="6821955" timestamp="2010-12-31T17:25:22Z" user="zorko" uid="22005" lat="-36.6342222" lon="-64.2949579"/>
+ <node id="1075599576" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6338325" lon="-64.2887014"/>
+ <node id="1314650083" visible="true" version="1" changeset="8365955" timestamp="2011-06-06T23:53:47Z" user="argenos" uid="302384" lat="-36.6279035" lon="-64.2943395"/>
+ <node id="1314650107" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6357568" lon="-64.2826598"/>
+ <node id="1314650130" visible="true" version="3" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6385826" lon="-64.2829718"/>
+ <node id="1314650200" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6276455" lon="-64.2924347"/>
+ <node id="1314650282" visible="true" version="1" changeset="8365955" timestamp="2011-06-06T23:53:55Z" user="argenos" uid="302384" lat="-36.6269563" lon="-64.2954363"/>
+ <node id="1314650423" visible="true" version="3" changeset="38860104" timestamp="2016-04-25T15:45:51Z" user="muralito" uid="755114" lat="-36.6371672" lon="-64.2827803"/>
+ <node id="1314650531" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6379282" lon="-64.2837527"/>
+ <node id="1314650573" visible="true" version="2" changeset="13737803" timestamp="2012-11-03T18:31:25Z" user="pablopareja" uid="211657" lat="-36.6386403" lon="-64.2815821"/>
+ <node id="1314650727" visible="true" version="1" changeset="8365955" timestamp="2011-06-06T23:54:14Z" user="argenos" uid="302384" lat="-36.6364869" lon="-64.2835475"/>
+ <node id="1314650741" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:50Z" user="Lars_TheViking" uid="9007988" lat="-36.6372894" lon="-64.2845360"/>
+ <node id="1314650793" visible="true" version="1" changeset="8365955" timestamp="2011-06-06T23:54:17Z" user="argenos" uid="302384" lat="-36.6283893" lon="-64.2933682"/>
+ <node id="1314650795" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:51Z" user="Lars_TheViking" uid="9007988" lat="-36.6280782" lon="-64.2919159"/>
+ <node id="1314650819" visible="true" version="5" changeset="51069193" timestamp="2017-08-12T22:36:15Z" user="serock" uid="1810448" lat="-36.6358149" lon="-64.2825116"/>
+ <node id="1314650842" visible="true" version="3" changeset="13737803" timestamp="2012-11-03T18:31:26Z" user="pablopareja" uid="211657" lat="-36.6386472" lon="-64.2822679"/>
+ <node id="1314716580" visible="true" version="3" changeset="61484057" timestamp="2018-08-09T01:06:38Z" user="geoJenn" uid="6172634" lat="-36.6254674" lon="-64.2821123"/>
+ <node id="1314717153" visible="true" version="5" changeset="61484057" timestamp="2018-08-09T01:06:38Z" user="geoJenn" uid="6172634" lat="-36.6254026" lon="-64.2860291"/>
+ <node id="1314717160" visible="true" version="2" changeset="61483781" timestamp="2018-08-09T00:36:58Z" user="geoJenn" uid="6172634" lat="-36.6363592" lon="-64.2956870"/>
+ <node id="1314717245" visible="true" version="2" changeset="13735363" timestamp="2012-11-03T15:13:39Z" user="pablopareja" uid="211657" lat="-36.6261105" lon="-64.2866780"/>
+ <node id="1979775273" visible="true" version="2" changeset="13737803" timestamp="2012-11-03T18:31:27Z" user="pablopareja" uid="211657" lat="-36.6387348" lon="-64.2826072"/>
+ <node id="1995403435" visible="true" version="1" changeset="13735363" timestamp="2012-11-03T15:12:57Z" user="pablopareja" uid="211657" lat="-36.6325513" lon="-64.2947082"/>
+ <node id="1995403467" visible="true" version="1" changeset="13735363" timestamp="2012-11-03T15:12:57Z" user="pablopareja" uid="211657" lat="-36.6328497" lon="-64.2950781"/>
+ <node id="1995403483" visible="true" version="1" changeset="13735363" timestamp="2012-11-03T15:12:57Z" user="pablopareja" uid="211657" lat="-36.6330071" lon="-64.2952733"/>
+ <node id="1995403490" visible="true" version="1" changeset="13735363" timestamp="2012-11-03T15:12:57Z" user="pablopareja" uid="211657" lat="-36.6331374" lon="-64.2954396"/>
+ <node id="1995403495" visible="true" version="1" changeset="13735363" timestamp="2012-11-03T15:12:57Z" user="pablopareja" uid="211657" lat="-36.6332998" lon="-64.2938020"/>
+ <node id="1995403507" visible="true" version="1" changeset="13735363" timestamp="2012-11-03T15:12:57Z" user="pablopareja" uid="211657" lat="-36.6335838" lon="-64.2941580"/>
+ <node id="1995403513" visible="true" version="1" changeset="13735363" timestamp="2012-11-03T15:12:57Z" user="pablopareja" uid="211657" lat="-36.6338806" lon="-64.2945299"/>
+ <node id="1995403556" visible="true" version="1" changeset="13735363" timestamp="2012-11-03T15:12:57Z" user="pablopareja" uid="211657" lat="-36.6345530" lon="-64.2934155"/>
+ <node id="1995816157" visible="true" version="1" changeset="13737803" timestamp="2012-11-03T18:31:14Z" user="pablopareja" uid="211657" lat="-36.6386408" lon="-64.2821197"/>
+ <node id="1995816162" visible="true" version="1" changeset="13737803" timestamp="2012-11-03T18:31:14Z" user="pablopareja" uid="211657" lat="-36.6387199" lon="-64.2827587"/>
+ <node id="2966165454" visible="true" version="3" changeset="65596809" timestamp="2018-12-19T00:28:51Z" user="Lars_TheViking" uid="9007988" lat="-36.6299392" lon="-64.2897978">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1000"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165456" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:09:19Z" user="Javier Dieser" uid="2755937" lat="-36.6306666" lon="-64.2906815">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1000"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165457" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:09:21Z" user="Javier Dieser" uid="2755937" lat="-36.6313271" lon="-64.2932808">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1000"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165458" visible="true" version="3" changeset="65596809" timestamp="2018-12-19T00:28:51Z" user="Lars_TheViking" uid="9007988" lat="-36.6314572" lon="-64.2916708">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1000"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165459" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:09:23Z" user="Javier Dieser" uid="2755937" lat="-36.6320793" lon="-64.2923594">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1000"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165498" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:10:13Z" user="Javier Dieser" uid="2755937" lat="-36.6300047" lon="-64.2893779">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1001"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165499" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:10:14Z" user="Javier Dieser" uid="2755937" lat="-36.6307679" lon="-64.2903140">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1001"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165501" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:10:17Z" user="Javier Dieser" uid="2755937" lat="-36.6315552" lon="-64.2912726">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1001"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165531" visible="true" version="3" changeset="65596809" timestamp="2018-12-19T00:28:51Z" user="Lars_TheViking" uid="9007988" lat="-36.6301322" lon="-64.2895797">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1002"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165533" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:10:58Z" user="Javier Dieser" uid="2755937" lat="-36.6308690" lon="-64.2904470">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1002"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165535" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:11:01Z" user="Javier Dieser" uid="2755937" lat="-36.6316425" lon="-64.2914108">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1002"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165615" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:12:51Z" user="Javier Dieser" uid="2755937" lat="-36.6305536" lon="-64.2887390">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1099"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165616" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:12:52Z" user="Javier Dieser" uid="2755937" lat="-36.6313169" lon="-64.2896751">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1099"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165618" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:12:55Z" user="Javier Dieser" uid="2755937" lat="-36.6321042" lon="-64.2906337">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1099"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165748" visible="true" version="3" changeset="65596809" timestamp="2018-12-19T00:28:51Z" user="Lars_TheViking" uid="9007988" lat="-36.6306904" lon="-64.2889034">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1100"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165750" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:13:43Z" user="Javier Dieser" uid="2755937" lat="-36.6314272" lon="-64.2897707">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1100"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165752" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:13:46Z" user="Javier Dieser" uid="2755937" lat="-36.6322007" lon="-64.2907344">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1100"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165792" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:14:44Z" user="Javier Dieser" uid="2755937" lat="-36.6307910" lon="-64.2884356">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1101"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165793" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:14:46Z" user="Javier Dieser" uid="2755937" lat="-36.6315542" lon="-64.2893942">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1101"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165831" visible="true" version="3" changeset="65596809" timestamp="2018-12-19T00:28:51Z" user="Lars_TheViking" uid="9007988" lat="-36.6309156" lon="-64.2885981">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1102"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165933" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:15:40Z" user="Javier Dieser" uid="2755937" lat="-36.6316573" lon="-64.2894779">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1102"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165974" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:16:35Z" user="Javier Dieser" uid="2755937" lat="-36.6313399" lon="-64.2877966">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1199"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966165975" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:16:36Z" user="Javier Dieser" uid="2755937" lat="-36.6321031" lon="-64.2887552">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1199"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966166011" visible="true" version="3" changeset="65596809" timestamp="2018-12-19T00:28:51Z" user="Lars_TheViking" uid="9007988" lat="-36.6314525" lon="-64.2879642">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1200"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966166013" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:17:30Z" user="Javier Dieser" uid="2755937" lat="-36.6321943" lon="-64.2888440">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="1200"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966170161" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:54:25Z" user="Javier Dieser" uid="2755937" lat="-36.6301449" lon="-64.2877786">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="601"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966170192" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:55:03Z" user="Javier Dieser" uid="2755937" lat="-36.6300711" lon="-64.2878914">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="602"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966170208" visible="true" version="2" changeset="58743605" timestamp="2018-05-07T03:55:23Z" user="Javier Dieser" uid="2755937" lat="-36.6306769" lon="-64.2884371">
+  <tag k="addr:city" v="Santa Rosa"/>
+  <tag k="addr:country" v="AR"/>
+  <tag k="addr:housenumber" v="699"/>
+  <tag k="addr:inclusion" v="potential"/>
+  <tag k="addr:postcode" v="6300"/>
+  <tag k="addr:province" v="La Pampa"/>
+ </node>
+ <node id="2966170439" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:46Z" user="donlaser" uid="1692368" lat="-36.6306089" lon="-64.2885625">
+  <tag k="addr:housenumber" v="700"/>
+ </node>
+ <node id="2966170454" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:46Z" user="donlaser" uid="1692368" lat="-36.6300788" lon="-64.2896808">
+  <tag k="addr:housenumber" v="701"/>
+ </node>
+ <node id="2966170455" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:46Z" user="donlaser" uid="1692368" lat="-36.6308902" lon="-64.2887372">
+  <tag k="addr:housenumber" v="701"/>
+ </node>
+ <node id="2966170484" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:47Z" user="donlaser" uid="1692368" lat="-36.6300031" lon="-64.2897712">
+  <tag k="addr:housenumber" v="702"/>
+ </node>
+ <node id="2966170485" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:47Z" user="donlaser" uid="1692368" lat="-36.6308190" lon="-64.2888234">
+  <tag k="addr:housenumber" v="702"/>
+ </node>
+ <node id="2966170501" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:47Z" user="donlaser" uid="1692368" lat="-36.6306108" lon="-64.2903392">
+  <tag k="addr:housenumber" v="799"/>
+ </node>
+ <node id="2966170502" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:48Z" user="donlaser" uid="1692368" lat="-36.6314221" lon="-64.2893956">
+  <tag k="addr:housenumber" v="799"/>
+ </node>
+ <node id="2966170531" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:49Z" user="donlaser" uid="1692368" lat="-36.6305409" lon="-64.2904424">
+  <tag k="addr:housenumber" v="800"/>
+ </node>
+ <node id="2966170532" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:49Z" user="donlaser" uid="1692368" lat="-36.6313568" lon="-64.2894945">
+  <tag k="addr:housenumber" v="800"/>
+ </node>
+ <node id="2966170667" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:50Z" user="donlaser" uid="1692368" lat="-36.6299687" lon="-64.2932173">
+  <tag k="addr:housenumber" v="801"/>
+ </node>
+ <node id="2966170668" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:50Z" user="donlaser" uid="1692368" lat="-36.6300939" lon="-64.2915643">
+  <tag k="addr:housenumber" v="801"/>
+ </node>
+ <node id="2966170670" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:50Z" user="donlaser" uid="1692368" lat="-36.6308511" lon="-64.2906394">
+  <tag k="addr:housenumber" v="801"/>
+ </node>
+ <node id="2966170673" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:50Z" user="donlaser" uid="1692368" lat="-36.6316504" lon="-64.2896733">
+  <tag k="addr:housenumber" v="801"/>
+ </node>
+ <node id="2966170717" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:51Z" user="donlaser" uid="1692368" lat="-36.6300328" lon="-64.2916564">
+  <tag k="addr:housenumber" v="802"/>
+ </node>
+ <node id="2966170719" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:52Z" user="donlaser" uid="1692368" lat="-36.6307765" lon="-64.2907562">
+  <tag k="addr:housenumber" v="802"/>
+ </node>
+ <node id="2966170721" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:52Z" user="donlaser" uid="1692368" lat="-36.6315882" lon="-64.2897871">
+  <tag k="addr:housenumber" v="802"/>
+ </node>
+ <node id="2966170961" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:53Z" user="donlaser" uid="1692368" lat="-36.6305729" lon="-64.2924671">
+  <tag k="addr:housenumber" v="899"/>
+ </node>
+ <node id="2966170962" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:53Z" user="donlaser" uid="1692368" lat="-36.6306258" lon="-64.2922227">
+  <tag k="addr:housenumber" v="899"/>
+ </node>
+ <node id="2966170965" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:53Z" user="donlaser" uid="1692368" lat="-36.6313831" lon="-64.2912978">
+  <tag k="addr:housenumber" v="899"/>
+ </node>
+ <node id="2966170968" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:53Z" user="donlaser" uid="1692368" lat="-36.6321824" lon="-64.2903318">
+  <tag k="addr:housenumber" v="899"/>
+ </node>
+ <node id="2966171010" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:55Z" user="donlaser" uid="1692368" lat="-36.6305707" lon="-64.2923276">
+  <tag k="addr:housenumber" v="900"/>
+ </node>
+ <node id="2966171012" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:55Z" user="donlaser" uid="1692368" lat="-36.6313144" lon="-64.2914274">
+  <tag k="addr:housenumber" v="900"/>
+ </node>
+ <node id="2966171014" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:55Z" user="donlaser" uid="1692368" lat="-36.6321260" lon="-64.2904583">
+  <tag k="addr:housenumber" v="900"/>
+ </node>
+ <node id="2966171249" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:56Z" user="donlaser" uid="1692368" lat="-36.6300027" lon="-64.2912950">
+  <tag k="addr:housenumber" v="901"/>
+ </node>
+ <node id="2966171251" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:56Z" user="donlaser" uid="1692368" lat="-36.6307463" lon="-64.2922588">
+  <tag k="addr:housenumber" v="901"/>
+ </node>
+ <node id="2966171252" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:56Z" user="donlaser" uid="1692368" lat="-36.6308601" lon="-64.2925303">
+  <tag k="addr:housenumber" v="901"/>
+ </node>
+ <node id="2966171255" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:56Z" user="donlaser" uid="1692368" lat="-36.6316144" lon="-64.2916055">
+  <tag k="addr:housenumber" v="901"/>
+ </node>
+ <node id="2966171290" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:54Z" user="Lars_TheViking" uid="9007988" lat="-36.6293470" lon="-64.2905165">
+  <tag k="addr:housenumber" v="902"/>
+ </node>
+ <node id="2966171292" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:57Z" user="donlaser" uid="1692368" lat="-36.6300744" lon="-64.2914002">
+  <tag k="addr:housenumber" v="902"/>
+ </node>
+ <node id="2966171293" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:57Z" user="donlaser" uid="1692368" lat="-36.6307893" lon="-64.2926096">
+  <tag k="addr:housenumber" v="902"/>
+ </node>
+ <node id="2966171294" visible="true" version="2" changeset="65596809" timestamp="2018-12-19T00:28:54Z" user="Lars_TheViking" uid="9007988" lat="-36.6308651" lon="-64.2923895">
+  <tag k="addr:housenumber" v="902"/>
+ </node>
+ <node id="2966171295" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:27:57Z" user="donlaser" uid="1692368" lat="-36.6315414" lon="-64.2916882">
+  <tag k="addr:housenumber" v="902"/>
+ </node>
+ <node id="2966171461" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:00Z" user="donlaser" uid="1692368" lat="-36.6306068" lon="-64.2905925">
+  <tag k="addr:housenumber" v="999"/>
+ </node>
+ <node id="2966171463" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:00Z" user="donlaser" uid="1692368" lat="-36.6313505" lon="-64.2915563">
+  <tag k="addr:housenumber" v="999"/>
+ </node>
+ <node id="2966171464" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:00Z" user="donlaser" uid="1692368" lat="-36.6313921" lon="-64.2931888">
+  <tag k="addr:housenumber" v="999"/>
+ </node>
+ <node id="2966171466" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:00Z" user="donlaser" uid="1692368" lat="-36.6321463" lon="-64.2922639">
+  <tag k="addr:housenumber" v="999"/>
+ </node>
+ <node id="2966819755" visible="true" version="1" changeset="24191025" timestamp="2014-07-16T21:50:48Z" user="donlaser" uid="1692368" lat="-36.6281046" lon="-64.2941071"/>
+ <node id="3359926162" visible="true" version="1" changeset="28962382" timestamp="2015-02-19T18:36:16Z" user="Jevman" uid="2082125" lat="-36.6308940" lon="-64.2890926">
+  <tag k="name" v="Glifos"/>
+ </node>
+ <node id="3429468833" visible="true" version="1" changeset="29892991" timestamp="2015-03-31T22:22:16Z" user="alejosgi" uid="2797545" lat="-36.6255422" lon="-64.2860322"/>
+ <node id="3450000208" visible="true" version="2" changeset="61484057" timestamp="2018-08-09T01:06:41Z" user="geoJenn" uid="6172634" lat="-36.6254809" lon="-64.2860309"/>
+ <node id="3450000213" visible="true" version="2" changeset="61484057" timestamp="2018-08-09T01:06:41Z" user="geoJenn" uid="6172634" lat="-36.6255437" lon="-64.2821735"/>
+ <node id="5821109421" visible="true" version="1" changeset="61508986" timestamp="2018-08-09T17:52:53Z" user="geoJenn" uid="6172634" lat="-36.6387431" lon="-64.2826863"/>
+ <way id="92738308" visible="true" version="9" changeset="56560951" timestamp="2018-02-21T20:17:31Z" user="Javier Dieser" uid="2755937">
+  <nd ref="1314717153"/>
+  <nd ref="3450000208"/>
+  <nd ref="3429468833"/>
+  <nd ref="1314717245"/>
+  <nd ref="1075599495"/>
+  <nd ref="1075599546"/>
+  <nd ref="1075599341"/>
+  <nd ref="1075599437"/>
+  <nd ref="1075599177"/>
+  <nd ref="1075599249"/>
+  <nd ref="1075599509"/>
+  <nd ref="1075599555"/>
+  <nd ref="1995403435"/>
+  <nd ref="1995403467"/>
+  <nd ref="1995403483"/>
+  <nd ref="1995403490"/>
+  <nd ref="1075599442"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Juan B. Alberdi"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="92738311" visible="true" version="6" changeset="56560951" timestamp="2018-02-21T20:17:16Z" user="Javier Dieser" uid="2755937">
+  <nd ref="1314650423"/>
+  <nd ref="1314650727"/>
+  <nd ref="1075599092"/>
+  <nd ref="1075599352"/>
+  <nd ref="1075599223"/>
+  <nd ref="1075599527"/>
+  <nd ref="1075599490"/>
+  <nd ref="1075599063"/>
+  <nd ref="1075598983"/>
+  <nd ref="1075599177"/>
+  <nd ref="1075599280"/>
+  <nd ref="1314650793"/>
+  <nd ref="2966819755"/>
+  <nd ref="1314650083"/>
+  <nd ref="1314650282"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="José Ingenieros"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="92738330" visible="true" version="4" changeset="56560951" timestamp="2018-02-21T20:17:05Z" user="Javier Dieser" uid="2755937">
+  <nd ref="1314650200"/>
+  <nd ref="1314650795"/>
+  <nd ref="1075599477"/>
+  <nd ref="1075599437"/>
+  <nd ref="1075599123"/>
+  <nd ref="1075599226"/>
+  <nd ref="1075599022"/>
+  <nd ref="1075599052"/>
+  <nd ref="1075599472"/>
+  <nd ref="1075599561"/>
+  <nd ref="1075599260"/>
+  <nd ref="1314650107"/>
+  <nd ref="1314650819"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Delfín Gallo"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="92738347" visible="true" version="8" changeset="61508986" timestamp="2018-08-09T17:52:55Z" user="geoJenn" uid="6172634">
+  <nd ref="1075599088"/>
+  <nd ref="1075599249"/>
+  <nd ref="1075599040"/>
+  <nd ref="1075599114"/>
+  <nd ref="1075599540"/>
+  <nd ref="1075599576"/>
+  <nd ref="1075599292"/>
+  <nd ref="1075599460"/>
+  <nd ref="1075599133"/>
+  <nd ref="1314650741"/>
+  <nd ref="1314650531"/>
+  <nd ref="1314650130"/>
+  <nd ref="1995816162"/>
+  <nd ref="5821109421"/>
+  <nd ref="1979775273"/>
+  <nd ref="1314650842"/>
+  <nd ref="1995816157"/>
+  <nd ref="1314650573"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Juan XXIII"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="92738350" visible="true" version="9" changeset="56560951" timestamp="2018-02-21T20:17:20Z" user="Javier Dieser" uid="2755937">
+  <nd ref="1314717160"/>
+  <nd ref="1075599070"/>
+  <nd ref="1075599247"/>
+  <nd ref="1995403556"/>
+  <nd ref="1075599434"/>
+  <nd ref="1075599337"/>
+  <nd ref="1075599114"/>
+  <nd ref="1075599063"/>
+  <nd ref="1075599226"/>
+  <nd ref="1075599151"/>
+  <nd ref="1075599397"/>
+  <nd ref="1075599296"/>
+  <nd ref="1075599155"/>
+  <nd ref="1075599286"/>
+  <nd ref="1075599055"/>
+  <nd ref="3450000213"/>
+  <nd ref="1314716580"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Lope de Vega"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="188834110" visible="true" version="6" changeset="66037353" timestamp="2019-01-04T23:55:40Z" user="Mr_Atlas" uid="8578194">
+  <nd ref="1075598998"/>
+  <nd ref="1075599130"/>
+  <nd ref="1075599570"/>
+  <nd ref="1995403513"/>
+  <nd ref="1995403507"/>
+  <nd ref="1995403495"/>
+  <nd ref="1075599258"/>
+  <nd ref="1075599193"/>
+  <nd ref="1075599040"/>
+  <nd ref="1075598983"/>
+  <nd ref="1075599123"/>
+  <nd ref="1075599074"/>
+  <nd ref="1075599252"/>
+  <nd ref="1075599182"/>
+  <tag k="highway" v="residential"/>
+  <tag k="lit" v="yes"/>
+  <tag k="name" v="Emilio Civit"/>
+  <tag k="oneway" v="yes"/>
+  <tag k="surface" v="asphalt"/>
+ </way>
+ <way id="293066737" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:04Z" user="donlaser" uid="1692368">
+  <nd ref="2966170667"/>
+  <nd ref="2966170961"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293066757" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:06Z" user="donlaser" uid="1692368">
+  <nd ref="2966165531"/>
+  <nd ref="2966165748"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="293066781" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:07Z" user="donlaser" uid="1692368">
+  <nd ref="2966171255"/>
+  <nd ref="2966171466"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293066810" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:08Z" user="donlaser" uid="1692368">
+  <nd ref="2966170161"/>
+  <nd ref="2966170208"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293066824" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:09Z" user="donlaser" uid="1692368">
+  <nd ref="2966170668"/>
+  <nd ref="2966170962"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293066860" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:11Z" user="donlaser" uid="1692368">
+  <nd ref="2966171292"/>
+  <nd ref="2966165456"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="293066963" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:16Z" user="donlaser" uid="1692368">
+  <nd ref="2966171252"/>
+  <nd ref="2966171464"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293066980" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:17Z" user="donlaser" uid="1692368">
+  <nd ref="2966165533"/>
+  <nd ref="2966165750"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="293066984" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:17Z" user="donlaser" uid="1692368">
+  <nd ref="2966170673"/>
+  <nd ref="2966170968"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293066999" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:18Z" user="donlaser" uid="1692368">
+  <nd ref="2966170670"/>
+  <nd ref="2966170965"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293067045" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:20Z" user="donlaser" uid="1692368">
+  <nd ref="2966165501"/>
+  <nd ref="2966165618"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293067065" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:21Z" user="donlaser" uid="1692368">
+  <nd ref="2966170719"/>
+  <nd ref="2966171012"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="293067113" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:24Z" user="donlaser" uid="1692368">
+  <nd ref="2966165498"/>
+  <nd ref="2966165615"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293067144" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:25Z" user="donlaser" uid="1692368">
+  <nd ref="2966170485"/>
+  <nd ref="2966170532"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="293067182" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:27Z" user="donlaser" uid="1692368">
+  <nd ref="2966171251"/>
+  <nd ref="2966171463"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293067284" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:32Z" user="donlaser" uid="1692368">
+  <nd ref="2966170721"/>
+  <nd ref="2966171014"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="293067287" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:32Z" user="donlaser" uid="1692368">
+  <nd ref="2966165933"/>
+  <nd ref="2966166013"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="293067295" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:33Z" user="donlaser" uid="1692368">
+  <nd ref="2966170192"/>
+  <nd ref="2966170439"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="293067359" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:36Z" user="donlaser" uid="1692368">
+  <nd ref="2966171293"/>
+  <nd ref="2966165457"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="293067440" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:39Z" user="donlaser" uid="1692368">
+  <nd ref="2966171290"/>
+  <nd ref="2966165454"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="293067460" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:40Z" user="donlaser" uid="1692368">
+  <nd ref="2966165793"/>
+  <nd ref="2966165975"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293067501" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:43Z" user="donlaser" uid="1692368">
+  <nd ref="2966165792"/>
+  <nd ref="2966165974"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293067562" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:46Z" user="donlaser" uid="1692368">
+  <nd ref="2966170454"/>
+  <nd ref="2966170501"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293067668" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:51Z" user="donlaser" uid="1692368">
+  <nd ref="2966170484"/>
+  <nd ref="2966170531"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="293067714" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:53Z" user="donlaser" uid="1692368">
+  <nd ref="2966170717"/>
+  <nd ref="2966171010"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="293067741" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:55Z" user="donlaser" uid="1692368">
+  <nd ref="2966165535"/>
+  <nd ref="2966165752"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="293067751" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:55Z" user="donlaser" uid="1692368">
+  <nd ref="2966171294"/>
+  <nd ref="2966165458"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="293067784" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:28:57Z" user="donlaser" uid="1692368">
+  <nd ref="2966171295"/>
+  <nd ref="2966165459"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+ <way id="293067858" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:29:01Z" user="donlaser" uid="1692368">
+  <nd ref="2966165499"/>
+  <nd ref="2966165616"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293067965" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:29:08Z" user="donlaser" uid="1692368">
+  <nd ref="2966170455"/>
+  <nd ref="2966170502"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293067971" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:29:08Z" user="donlaser" uid="1692368">
+  <nd ref="2966171249"/>
+  <nd ref="2966171461"/>
+  <tag k="addr:interpolation" v="odd"/>
+ </way>
+ <way id="293068032" visible="true" version="1" changeset="24183950" timestamp="2014-07-16T15:29:11Z" user="donlaser" uid="1692368">
+  <nd ref="2966165831"/>
+  <nd ref="2966166011"/>
+  <tag k="addr:interpolation" v="even"/>
+ </way>
+</osm>
